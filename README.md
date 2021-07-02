@@ -4,9 +4,17 @@
   Gatsby/BJS import test
 </h1>
 
+Assuming you already have node.js & git locally, you'll just need the Gatsby CLI if you don't have it already:
+
+  ```shell
+    npm install -g gatsby-cli
+    ```
+
+View at localhost:8000
+For more info, see info below from auto generated readme, or visit https://www.gatsbyjs.com/docs/tutorial/part-0/
+
 Kick off your project with this boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
