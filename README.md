@@ -16,9 +16,9 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     # create a new Gatsby site using the hello-world starter
-    gatsby new my-hello-bjs-starter https://github.com/cgcreatexyz/GATSBY-STARTER-HELLO-BJS-BASIC.git
+    gatsby new my-test-starter https://github.com/3dwebgs/bjs-import-test.git
 
-    # 'my-hello-bjs-starter' is the name you choose for your local project; it can be anything!
+    # 'my-test-starter' is the name you choose for your local project; it can be anything!
     ```
 
 2.  **Start developing.**
@@ -26,7 +26,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-hello-bjs-starter/
+    cd my-test-starter/
     gatsby develop
     ```
 
